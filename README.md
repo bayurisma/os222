@@ -1,7 +1,8 @@
-# os222 
+# OS222: Operating Systems 2022-2 
 
-[OS222: Operating Systems 2022-2 ](https://github.com/bayurisma29/os222)
+[Home](https://bayurisma29.github.io/os222/) ---
+[Repo](https://github.com/cbkadal/os222/) ---
+[My Github](https://github.com/bayurisma29)
 
-os222
 ======
 Operating Systems 2022-2 
