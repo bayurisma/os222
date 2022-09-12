@@ -18,7 +18,6 @@ permalink: LINKS/
 1. [The Weird History of Linux](https://youtu.be/ShcR4Zfc6Dw)<br>
 a brief journey through the history of Linux to understand how hundreds of different distros could exist today.
 
-<br>
 <hr>
 &copy; 2022 --- bayurisma29.
 <hr>
