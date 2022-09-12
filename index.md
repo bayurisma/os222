@@ -1,5 +1,5 @@
 
-[OS222: Operating Systems 2022-2]({{ site.baseurl }})
+[OS222: Operating Systems 2022-2](https://bayurisma29.github.io/os222/)
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By Maulana Bayu Risma</span>
 <br><br>
