@@ -3,7 +3,7 @@
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By Maulana Bayu Risma</span>
 <br><br>
-[HOME](bayurisma29.github.io/os222/) ---
+[HOME](https://bayurisma29.github.io/os222/) ---
 [LINKS](LINKS/) ---
 [TIPS](TIPS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
