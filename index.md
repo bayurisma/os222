@@ -4,10 +4,10 @@
 <span style="color:red; font-weight:bold; font-size:larger;">By Maulana Bayu Risma</span>
 <br><br>
 [HOME](bayurisma29.github.io/os222/) ---
-[LINKS](bayurisma29.github.io/os222/LINKS/) ---
-[TIPS](bayurisma29.github.io/os222/TIPS/) ---
+[LINKS](LINKS/) ---
+[TIPS](TIPS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
-[LOG](bayurisma29.github.io/os222//TXT/mylog.txt) ---
+[LOG](TXT/mylog.txt) ---
 [TARBALL]() ---
 [GITHUB](https://github.com/bayurisma29/os222)
 <br>
