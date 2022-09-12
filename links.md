@@ -1,6 +1,3 @@
----
-permalink: LINKS/
----
 <span style="color:red; font-weight:bold; font-size:larger;">By Maulana Bayu Risma</span>
 <br><br>
 [HOME](bayurisma29.github.io/os222/) ---
