@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Maulana Bayu Risma</span>
 <br><br>
 [HOME](bayurisma29.github.io/os222/) ---
 [LINKS](bayurisma29.github.io/os222/LINKS/) ---
