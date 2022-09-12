@@ -6,7 +6,7 @@ permalink: LINKS/
 [HOME](https://bayurisma29.github.io/os222/) ---
 [LINKS](LINKS/) ---
 [TIPS](TIPS/) ---
-[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
+[PUBLIC KEY](TXT/mypubkey.txt) ---
 [LOG](TXT/mylog.txt) ---
 [TARBALL](SandBox/) ---
 [GITHUB](https://github.com/bayurisma29/os222)
