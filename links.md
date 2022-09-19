@@ -37,8 +37,7 @@ A brief explanation about the difference between symmetric and assymetric encryp
 3. [SHA: Secure Hashing Algorithm - Computerphile](https://youtu.be/DMtFhACPnTY)<br>
 Here's Dr Mike Pound explains how SHA is really works. He did it very straightforward and easy to understand.
 
-<
-hr>
+<hr>
 &copy; 2022 --- bayurisma29.
 <hr>
 <br>
