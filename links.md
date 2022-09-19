@@ -4,8 +4,7 @@ permalink: LINKS/
 <span style="color:red; font-weight:bold; font-size:larger;">By Maulana Bayu Risma</span>
 <br><br>
 [HOME](https://bayurisma29.github.io/os222/) ---
-[LINKS](LINKS/) ---
-[TIPS](TIPS/) ---
+[LINKS](LINKS/) ----
 [PUBLIC KEY](TXT/mypubkey.txt) ---
 [LOG](TXT/mylog.txt) ---
 [TARBALL](SandBox/) ---
