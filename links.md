@@ -44,7 +44,7 @@ This video explains about Filesystem Hierarchy Standard (FHS) briefly in 100 sec
 This kernel documentation about FUSE could guide you to grasp some important commands and definition about FUSE system. It also provided with a well-explanation in each section. 
 
 3. [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw&ab_channel=DorianDotSlash)<br>
-A great comprehensive video that could clear our confusion with Linux file system. It's easy to follow and covered most of about Linux file system. This is ver recommended especially for beginner who just try to using Linux.
+A great comprehensive video that could clear our confusion with Linux file system. It's easy to follow and covered most of about Linux file system. This is veryrecommended especially for beginner who just try to using Linux.
  
 <hr>
 &copy; 2022 --- bayurisma29.
