@@ -36,7 +36,18 @@ A brief explanation about the difference between symmetric and assymetric encryp
 3. [SHA: Secure Hashing Algorithm - Computerphile](https://youtu.be/DMtFhACPnTY)<br>
 Here's Dr Mike Pound explains how SHA is really works. He did it very straightforward and easy to understand.
 
+## Week 03<br>
+1. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4&ab_channel=Fireship)<br>
+This video explains about Filesystem Hierarchy Standard (FHS) briefly in 100 seconds. Great introduction before going into the more advanced one.
+
+2. [Fuse -- The Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+This kernel documentation about FUSE could guide you to grasp some important commands and definition about FUSE system. It also provided with a well-explanation in each section. 
+
+3. [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw&ab_channel=DorianDotSlash)<br>
+A great comprehensive video that could clear our confusion with Linux file system. It's easy to follow and covered most of about Linux file system. This is ver recommended especially for beginner who just try to using Linux.
+ 
 <hr>
 &copy; 2022 --- bayurisma29.
 <hr>
 <br>
+
