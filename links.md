@@ -46,6 +46,10 @@ This kernel documentation about FUSE could guide you to grasp some important com
 3. [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw&ab_channel=DorianDotSlash)<br>
 A great comprehensive video that could clear our confusion with Linux file system. It's easy to follow and covered most of about Linux file system. This is veryrecommended especially for beginner who just try to using Linux.
  
+## Week 04<br>
+1. [you will never ask about pointers again after watching this video - Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM)<br>
+Simple and entertaining video about C pointers. I like this video because the explanation is easy to understand for me who really confused about how pointer works.
+
 <hr>
 &copy; 2022 --- bayurisma29.
 <hr>
