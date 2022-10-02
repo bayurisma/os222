@@ -5,10 +5,8 @@
 <br><br>
 [HOME](https://bayurisma29.github.io/os222/) ---
 [LINKS](LINKS/) ---
-[TIPS](TIPS/) ---
 [PUBLIC KEY](TXT/mypubkey.txt) ---
 [LOG](TXT/mylog.txt) ---
-[TARBALL]() ---
 [GITHUB](https://github.com/bayurisma29/os222)
 <br>
 <hr>
