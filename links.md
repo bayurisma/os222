@@ -50,6 +50,13 @@ A great comprehensive video that could clear our confusion with Linux file syste
 1. [you will never ask about pointers again after watching this video - Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM)<br>
 Simple and entertaining video about C pointers. I like this video because the explanation is easy to understand for me who really confused about how pointer works.
 
+## Week 05<br>
+1. [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+Almost all the thing about virtual memory was covered in this website. From its definition until the explanation of algorithm commonly used for paging could be found in here.
+
+2. [Demand Paging in Operating System](https://www.naukri.com/learning/articles/working-of-demand-paging-in-operating-system/)<br>
+In this article, we can learn more about demand paging and how it works in modern operating systems. It also discuss some of the benefits and drawbacks of this demand paging technique with some real-life analogy.
+
 <hr>
 &copy; 2022 --- bayurisma29.
 <hr>
