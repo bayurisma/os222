@@ -57,6 +57,13 @@ Almost all the thing about virtual memory was covered in this website. From its 
 2. [Demand Paging in Operating System](https://www.naukri.com/learning/articles/working-of-demand-paging-in-operating-system/)<br>
 In this article, we can learn more about demand paging and how it works in modern operating systems. It also discuss some of the benefits and drawbacks of this demand paging technique with some real-life analogy.
 
+## Week 06<br>
+1. [SCP Linux Command](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)<br>
+This tutorial will help you so much when working on PopQuiz 2. And yeah SCP is a safer option for cp command that protect the transferred data from suspicious attacks.
+
+2. [tar man page](https://linux.die.net/man/1/tar)<br>
+If you still being clueless about how tar command works eventho we already in week 6, don't worry. You still not too late to check this manual page out. Legend said we should always relied on man page.
+
 <hr>
 &copy; 2022 --- bayurisma29.
 <hr>
