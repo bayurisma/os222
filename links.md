@@ -64,6 +64,15 @@ This tutorial will help you so much when working on PopQuiz 2. And yeah SCP is a
 2. [tar man page](https://linux.die.net/man/1/tar)<br>
 If you still being clueless about how tar command works eventho we already in week 6, don't worry. You still not too late to check this manual page out. Legend said we should always relied on man page.
 
+## Week 07<br>
+1. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+This article explains about how Semaphore technique works and shows a bit of its implementation in C++ language.
+
+2. [Race Condition](https://www.techtarget.com/searchstorage/definition/race-condition)<br>
+Race condition got explained very well in this article. Includes with diagram which really help to visualize the process and make it easy to understand.
+
+3. [Deadlocks](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html)<br>
+A brief note that summarize some of important material about Deadlocks from Silberschatz. This could be a good alternative to learn Deadlocks concept. 
 <hr>
 &copy; 2022 --- bayurisma29.
 <hr>
