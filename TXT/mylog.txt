@@ -66,3 +66,10 @@ ZCZC W08  30 L07 Demo related
 ZCZC W08  30 L25 Learning more about LFS
 ZCZC W08  10 L04 GitHub Pages related
 ZCZC W08  100 L09 Weekly Assignments
+ZCZC W09  30 L00 General, etc.
+ZCZC W09  20 L01 SCELE/Discord related
+ZCZC W09  100 L02 ZOOM meetings related
+ZCZC W09  30 L07 Demo related
+ZCZC W09  60 L25 Learning more about LFS
+ZCZC W09  10 L04 GitHub Pages related
+ZCZC W09  100 L09 Weekly Assignments
